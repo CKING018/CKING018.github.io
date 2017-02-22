@@ -1,0 +1,13 @@
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Montserrat', sans-serif;
+}
+body{
+    font-family: 'Droid Serif', serif;
+    background-color: #FAFAFA;
+}
+.navbar{
+    margin-bottom: 0px;
+}
+.carousel{
+    margin-bottom: 20px;
+}
